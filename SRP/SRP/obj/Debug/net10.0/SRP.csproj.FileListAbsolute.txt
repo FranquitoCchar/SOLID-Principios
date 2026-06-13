@@ -1,0 +1,15 @@
+C:\ReposicionSOLID\SOLID-Principios\SRP\SRP\bin\Debug\net10.0\SRP.exe
+C:\ReposicionSOLID\SOLID-Principios\SRP\SRP\bin\Debug\net10.0\SRP.deps.json
+C:\ReposicionSOLID\SOLID-Principios\SRP\SRP\bin\Debug\net10.0\SRP.runtimeconfig.json
+C:\ReposicionSOLID\SOLID-Principios\SRP\SRP\bin\Debug\net10.0\SRP.dll
+C:\ReposicionSOLID\SOLID-Principios\SRP\SRP\bin\Debug\net10.0\SRP.pdb
+C:\ReposicionSOLID\SOLID-Principios\SRP\SRP\obj\Debug\net10.0\SRP.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReposicionSOLID\SOLID-Principios\SRP\SRP\obj\Debug\net10.0\SRP.AssemblyInfoInputs.cache
+C:\ReposicionSOLID\SOLID-Principios\SRP\SRP\obj\Debug\net10.0\SRP.AssemblyInfo.cs
+C:\ReposicionSOLID\SOLID-Principios\SRP\SRP\obj\Debug\net10.0\SRP.csproj.CoreCompileInputs.cache
+C:\ReposicionSOLID\SOLID-Principios\SRP\SRP\obj\Debug\net10.0\SRP.sourcelink.json
+C:\ReposicionSOLID\SOLID-Principios\SRP\SRP\obj\Debug\net10.0\SRP.dll
+C:\ReposicionSOLID\SOLID-Principios\SRP\SRP\obj\Debug\net10.0\refint\SRP.dll
+C:\ReposicionSOLID\SOLID-Principios\SRP\SRP\obj\Debug\net10.0\SRP.pdb
+C:\ReposicionSOLID\SOLID-Principios\SRP\SRP\obj\Debug\net10.0\SRP.genruntimeconfig.cache
+C:\ReposicionSOLID\SOLID-Principios\SRP\SRP\obj\Debug\net10.0\ref\SRP.dll
