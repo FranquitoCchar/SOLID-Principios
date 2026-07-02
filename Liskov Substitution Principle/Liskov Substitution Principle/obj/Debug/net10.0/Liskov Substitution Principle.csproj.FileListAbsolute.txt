@@ -1,0 +1,14 @@
+C:\Users\danny\source\repos\Liskov Substitution Principle\Liskov Substitution Principle\bin\Debug\net10.0\Liskov Substitution Principle.exe
+C:\Users\danny\source\repos\Liskov Substitution Principle\Liskov Substitution Principle\bin\Debug\net10.0\Liskov Substitution Principle.deps.json
+C:\Users\danny\source\repos\Liskov Substitution Principle\Liskov Substitution Principle\bin\Debug\net10.0\Liskov Substitution Principle.runtimeconfig.json
+C:\Users\danny\source\repos\Liskov Substitution Principle\Liskov Substitution Principle\bin\Debug\net10.0\Liskov Substitution Principle.dll
+C:\Users\danny\source\repos\Liskov Substitution Principle\Liskov Substitution Principle\bin\Debug\net10.0\Liskov Substitution Principle.pdb
+C:\Users\danny\source\repos\Liskov Substitution Principle\Liskov Substitution Principle\obj\Debug\net10.0\Liskov Substitution Principle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danny\source\repos\Liskov Substitution Principle\Liskov Substitution Principle\obj\Debug\net10.0\Liskov Substitution Principle.AssemblyInfoInputs.cache
+C:\Users\danny\source\repos\Liskov Substitution Principle\Liskov Substitution Principle\obj\Debug\net10.0\Liskov Substitution Principle.AssemblyInfo.cs
+C:\Users\danny\source\repos\Liskov Substitution Principle\Liskov Substitution Principle\obj\Debug\net10.0\Liskov Substitution Principle.csproj.CoreCompileInputs.cache
+C:\Users\danny\source\repos\Liskov Substitution Principle\Liskov Substitution Principle\obj\Debug\net10.0\Liskov Substitution Principle.dll
+C:\Users\danny\source\repos\Liskov Substitution Principle\Liskov Substitution Principle\obj\Debug\net10.0\refint\Liskov Substitution Principle.dll
+C:\Users\danny\source\repos\Liskov Substitution Principle\Liskov Substitution Principle\obj\Debug\net10.0\Liskov Substitution Principle.pdb
+C:\Users\danny\source\repos\Liskov Substitution Principle\Liskov Substitution Principle\obj\Debug\net10.0\Liskov Substitution Principle.genruntimeconfig.cache
+C:\Users\danny\source\repos\Liskov Substitution Principle\Liskov Substitution Principle\obj\Debug\net10.0\ref\Liskov Substitution Principle.dll
