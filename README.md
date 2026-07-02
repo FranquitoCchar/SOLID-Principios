@@ -65,11 +65,13 @@ Demuestra cómo separar una clase que hacía todo (gestionar datos, calcular tot
 
 Demuestra cómo aplicar descuentos a un pedido sin modificar el código existente. Se define la interfaz `IDescuento` y cada tipo de descuento (VIP, Temporada, Nuevo Cliente) es una clase separada que la implementa. Incluye la versión incorrecta con un método lleno de `if/else` que debe modificarse cada vez que se agrega un descuento nuevo.
 
-### L — Liskov Substitution Principle (Dennis Segura)
+### L — Liskov Substitution Principle (Daniel Picado)
 **Carpeta:** `LSP/`
+Demuestra como aplicar el principio de en un sistema de inventario, basandonos en que si sustituimos la clase padre que en este caso es producto por una clase hija el programa no deberia de comportarse diferente deveria seguir su funcionalidad normal
 
 ### I — Interface Segregation Principle (Dennis Segura)
 **Carpeta:** `ISP/`
 
-### D — Dependency Inversion Principle (Daniel Picado)
+### D — Dependency Inversion Principle (Dennis Segura)
 **Carpeta:** `DIP/`
+
