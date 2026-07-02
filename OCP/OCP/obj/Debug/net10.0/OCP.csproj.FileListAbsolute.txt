@@ -1,0 +1,15 @@
+C:\ReposicionSOLID\SOLID-Principios\OCP\OCP\bin\Debug\net10.0\OCP.exe
+C:\ReposicionSOLID\SOLID-Principios\OCP\OCP\bin\Debug\net10.0\OCP.deps.json
+C:\ReposicionSOLID\SOLID-Principios\OCP\OCP\bin\Debug\net10.0\OCP.runtimeconfig.json
+C:\ReposicionSOLID\SOLID-Principios\OCP\OCP\bin\Debug\net10.0\OCP.dll
+C:\ReposicionSOLID\SOLID-Principios\OCP\OCP\bin\Debug\net10.0\OCP.pdb
+C:\ReposicionSOLID\SOLID-Principios\OCP\OCP\obj\Debug\net10.0\OCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReposicionSOLID\SOLID-Principios\OCP\OCP\obj\Debug\net10.0\OCP.AssemblyInfoInputs.cache
+C:\ReposicionSOLID\SOLID-Principios\OCP\OCP\obj\Debug\net10.0\OCP.AssemblyInfo.cs
+C:\ReposicionSOLID\SOLID-Principios\OCP\OCP\obj\Debug\net10.0\OCP.csproj.CoreCompileInputs.cache
+C:\ReposicionSOLID\SOLID-Principios\OCP\OCP\obj\Debug\net10.0\OCP.sourcelink.json
+C:\ReposicionSOLID\SOLID-Principios\OCP\OCP\obj\Debug\net10.0\OCP.dll
+C:\ReposicionSOLID\SOLID-Principios\OCP\OCP\obj\Debug\net10.0\refint\OCP.dll
+C:\ReposicionSOLID\SOLID-Principios\OCP\OCP\obj\Debug\net10.0\OCP.pdb
+C:\ReposicionSOLID\SOLID-Principios\OCP\OCP\obj\Debug\net10.0\OCP.genruntimeconfig.cache
+C:\ReposicionSOLID\SOLID-Principios\OCP\OCP\obj\Debug\net10.0\ref\OCP.dll

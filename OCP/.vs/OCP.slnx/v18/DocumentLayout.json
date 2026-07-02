@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ReposicionSOLID\\SOLID-Principios\\OCP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72B6F3FE-C27A-46A9-AD01-99FBDD94BBBB}|OCP\\OCP.csproj|c:\\reposicionsolid\\solid-principios\\ocp\\ocp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B6F3FE-C27A-46A9-AD01-99FBDD94BBBB}|OCP\\OCP.csproj|solutionrelative:ocp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ReposicionSOLID\\SOLID-Principios\\OCP\\OCP\\Program.cs",
+              "RelativeDocumentMoniker": "OCP\\Program.cs",
+              "ToolTip": "C:\\ReposicionSOLID\\SOLID-Principios\\OCP\\OCP\\Program.cs",
+              "RelativeToolTip": "OCP\\Program.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAA9wJMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T17:22:00.004Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
